@@ -1,0 +1,143 @@
+
+#bck{
+	background-image: url("../img/dance_1.jpg");
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-size:110%;
+	margin: 0px;   
+	max-width: 100%;
+	height: 510px;
+}
+
+#studio{
+	font-family: Neoteric-Bold;
+	font-size: 100px;
+	margin-left: 100px;
+}
+
+#texto1{
+	font-family:Latolight ;
+	font-size: 20px;
+	margin-left: 100px;
+}
+
+#boton{
+	font-family:Latolight ;
+	font-size: 20px;
+	margin-left: 100px;
+	border: 1px solid #192951;
+	color: white;
+	background-color:#192951;
+	width: 150px;
+	border-radius: 2px;
+	padding: 10px; 
+}
+
+#bck2{
+	background-image: url("../img/textura_2.jpg");
+	background-repeat:repeat;
+	background-position:center;
+	margin: 0px;   
+	max-width: 100%;
+	height: 510px;
+}
+
+#bck3{
+	background-image: url("../img/textura_2.jpg");
+	background-repeat:repeat;
+	background-position:center;
+	margin: 0px;   
+	max-width: 100%;
+	height: 310px;
+}
+
+#italic{
+	font-style: italic;
+	font-size: 54px;	
+}
+
+#frasej{
+	font-size: 34px;
+	font-family:Latolight ;
+}
+
+#frase2{
+	font-size: 54px;
+	font-family: LatoHeayv;
+}
+
+#garabato{
+	width: 200px;
+	height: auto;
+}
+
+
+#boton2{
+	font-family:Latolight ;
+	font-size: 20px;
+	margin-left: 600px;
+	border: 1px solid #192951;
+	color: white;
+	background-color:#192951;
+	width: 380px;
+	border-radius: 2px;
+	padding: 25px; 
+}
+
+#instructores1{
+	background-image: url("../img/instructor_4.jpg");
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 400px;
+	border: 2px solid #192951;
+}
+
+#instructores2{
+	background-image: url("../img/profesor_9.jpg");
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 400px;
+	border: 2px solid #192951;
+}
+
+#boton3{
+	font-family:Latolight ;
+	font-size: 20px;
+	margin-left: 600px;
+	border: 1px solid #192951;
+	color: white;
+	background-color:#192951;
+	width: 380px;
+	border-radius: 2px;
+	margin-top: 50px; 
+	padding: 25px;
+}
+
+.profesores{
+	background-image: url("../img/instructor_4.jpg"),url("../img/profesor_9.jpg");
+	background-repeat: no-repeat;
+	background-size: 50%,50%;
+	background-position: left top, right top;
+	margin-left:0px,0px;
+	max-width: 100%,100%;
+    height:410px,410%;
+    border: 2px solid #192951;
+    margin: 0px;
+    background-color:#192951; 
+}
+
+.p-relative{
+	position: relative;
+	width: 40%;
+	height:60px;
+	margin-left:30%;
+	margin-top:250px;
+	background-color:#192951;
+	border-radius: 2px;
+	padding: 17px; 
+	font-size: 20px;
+}
+
+

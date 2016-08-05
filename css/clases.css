@@ -1,0 +1,59 @@
+.fondo {
+    margin-left: 2%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}   
+
+.opaco{
+	filter: alpha(opacity=80);
+	opacity: .8;
+	background-color:black;
+	margin-left: 10px;
+	margin-top: 250px;
+	padding: 40px;
+}
+
+.lados{
+	margin-left: 125px;
+}
+
+#img0{
+    width: 25%;
+    height: 500px;
+    background-image: url("../img/dance_12.jpg");
+    
+}
+
+#img1{
+    width: 25%;
+    height: 500px;
+    background-image: url("../img/breakdance.jpg");
+}	
+
+
+#img2{
+    width: 25%;
+    height: 500px;
+    background-image: url("../img/lirical-jazz.jpg");
+}
+
+#img3{
+    width: 25%;
+    height: 500px;
+    background-image: url("../img/arabe.jpg");
+    
+}
+
+#img4{
+    width: 25%;
+    height: 500px;
+    background-image: url("../img/little.jpg");
+}	
+
+
+#img5{
+    width: 25%;
+    height: 500px;
+    background-image: url("../img/dance_13.jpg");
+}

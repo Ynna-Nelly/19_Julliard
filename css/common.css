@@ -1,0 +1,149 @@
+/* header*/
+#header{
+	font-family: LatoHeayv;
+	font-size: 32px;
+	margin-top: 20px;
+}
+
+li{
+	font-size: 18px;
+	list-style:none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 80px;
+	font-family:Latolight ;
+
+}
+
+a {
+	text-decoration:none;
+	color:#BDBDBD;
+	
+}
+
+.left4{
+	margin-left: 100px;
+}
+
+.bck4{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat:no-repeat;
+	background-position:right;
+	background-size:60%;
+	margin: 0px;   
+	max-width: 110%;
+	height: 610px;
+}
+
+.boton6{
+	font-family:Latolight ;
+	font-size: 20px;
+	border: 1px solid #192951;
+	color: white;
+	background-color:#192951;
+	width: 500px;
+	border-radius: 2px;
+	padding: 10px; 
+}
+
+form{
+	margin-left: -25px;
+}
+
+.bckm1{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat:no-repeat;
+	background-position:right;
+	background-size:60%;
+	margin: 0px;   
+	max-width: 110%;
+	height: 610px;
+}
+ 
+.contacto{
+	font-family:Latolight;
+	font-size: 54px;
+	margin-left: 120px;
+}
+
+label
+{
+    display: block;
+}
+
+ input
+{
+    background: url("iconos.gif") no-repeat scroll 0 0 transparent;
+    border: 1px solid #BFBFBF;
+    color: #BFBFBF;
+  	padding: 5px 5px 5px 25px;
+    width: 500px;
+    margin-bottom: 20px;
+	font-family:Latolight;
+	font-size: 18px;
+}
+
+input.submit
+{
+    width: auto;
+    background-position: 4px -84px;
+    background-color: #999999;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+input.user{ 
+	background-position: 4px -18px;
+	background: url("../img/icon/estudiante.png") no-repeat scroll 0 0 transparent;
+}
+
+input.password{ 
+	background-position: 4px -41px;
+	background: url("../img/icon/email.png") no-repeat scroll 0 0 transparent; 
+}
+
+input.message{ 
+	background-position: 4px -63px;
+	background: url("../img/icon/lapiz1.png") no-repeat scroll 0 0 transparent;
+	height: 100px;
+	padding-top: -25px;
+}
+
+.azul{
+	background-color: #192951;
+}
+
+/* esta parte es para el formulario
+form{
+	width: 500px;
+	margin: auto;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 5%;
+}
+.h2{
+	color: #011547;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+input, textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	font-size: 17px;
+	border: 1px solid #C3C3C3;
+}
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+#boton{
+	background-color: #011547;
+	color: #FFFFFF;
+	padding: 20px;
+}
+#boton:hover{
+	color: #110CF3;
+}
+hasta aqui termina el estilo del formulario */

@@ -1,0 +1,55 @@
+#blog{
+	font-family:Latolight ;
+	font-size: 24px;
+}
+
+.imag3{
+	width: 350px;
+	height: auto;
+	margin-left: 250px;
+}
+
+.imag4{
+	width: 495px;
+	height: auto;
+	margin-left: 250px;
+}
+
+#boton8{
+	font-family:Latolight ;
+	font-size: 20px;
+	border: 1px solid #192951;
+	color: white;
+	background-color:#192951;
+	width: 300px;
+	border-radius: 3px;
+	padding: 15px; 
+}
+
+.espacio{
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+.espacio1{
+	margin-bottom: 10px;
+	margin-left: 20px;
+	color: #D8D8D8;
+}
+
+.espacio3{
+	margin-left: 20px;
+}
+
+.espacioa{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.gris{
+	background-color:#BDBDBD;
+	padding-top: 10px;
+	padding-bottom: 57px;
+	margin-left: -186px;
+	height: 330px;
+}
